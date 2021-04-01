@@ -1,4 +1,5 @@
 # vue3-error
+The problem is in component ApiBinding line 8.
 
 ## Project setup
 ```
